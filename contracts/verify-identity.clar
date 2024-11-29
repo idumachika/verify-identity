@@ -1,4 +1,4 @@
-;; VerifyChain: Advanced Digital Identity Verification System
+Advanced Digital Identity Verification System
 
 ;; Constants
 (define-constant contract-owner tx-sender)
